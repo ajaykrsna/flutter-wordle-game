@@ -21,4 +21,4 @@ jobs:
         with:
           flutter-version: '2.10.4'
           channel: 'stable'
-      - run: flutter build we --release
+      - run: flutter build web --release
